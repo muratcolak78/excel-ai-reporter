@@ -1,0 +1,21 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+**/target/
+*.log
+
+# Node
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+
+# Local config files
+**/application-local.properties
